@@ -1,0 +1,8 @@
+# Configure user specific exclude file
+# git config --global core.excludesfile ~/.gitignore
+
+# macOS
+.DS_Store
+
+# Node.js
+node_modules
