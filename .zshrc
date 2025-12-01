@@ -1,3 +1,9 @@
+# History
+HISTFILE=~/.zsh_history
+HISTSIZE=10000
+SAVEHIST=10000
+setopt SHARE_HISTORY
+
 setopt prompt_subst
 autoload -Uz vcs_info
 autoload -Uz compinit && compinit
