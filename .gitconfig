@@ -10,5 +10,8 @@
 [pull]
   rebase = true
 
+[url "git@github.com:"]
+  insteadOf = https://github.com/
+
 [user]
   name = Onno van Paridon
