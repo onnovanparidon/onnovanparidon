@@ -1,0 +1,14 @@
+[init]
+  defaultBranch = main
+
+[core]
+  editor = vim
+
+[fetch]
+  prune = true
+
+[pull]
+  rebase = true
+
+[user]
+  name = Onno van Paridon
